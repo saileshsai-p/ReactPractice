@@ -1,0 +1,26 @@
+[
+    {"id":1,
+        "eventName":"Marriage",
+        "venue":"Sri city",
+        "date":"20-07-2026",
+        "registered":22,
+        "capacity":54
+    },
+      {"id":2,
+        "eventName":"Birthday",
+        "venue":"Sri city",
+        "date":"20-6-2026",
+        "registered":54,
+        "capacity":22
+    },
+      {"id":3,
+        "eventName":"Retirement",
+        "venue":"Sri city",
+        "date":"02-07-2026",
+        "registered":32,
+        "capacity":54
+    }
+    
+    
+    
+]
